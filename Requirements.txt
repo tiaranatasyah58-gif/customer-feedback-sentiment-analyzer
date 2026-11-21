@@ -1,0 +1,3 @@
+# Tidak ada library eksternal
+# Proyek ini hanya menggunakan library bawaan Python
+# Agar mudah dijalankan di Google Colab dan oleh Panitia IBM
